@@ -1,4 +1,7 @@
 # file-splitter-software
+
+SINCE GITHUB DOES NOT ALLOW TO UPLOAD FILE SIZE GREATER THAN 25 MB, THE UPDATED VERSION OF THE BINARY FILE CAN BE FOUND AT https://sourceforge.net/projects/file-splitter-software/
+
 Split your large data files into a small/readable file format
 
 Its a windows executable software tested on windows 10 - 64 bit machine. Feel free to use it at your discreation.
